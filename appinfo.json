@@ -1,0 +1,34 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "James Downs",
+    "longName": "Papple",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Papple.png",
+                "name": "BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/opensans-5.ttf",
+                "name": "OPEN_SANS_12",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Papple",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "3f497e46-7c62-441f-869b-a7b5e0c8f90f",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
